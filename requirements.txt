@@ -1,0 +1,7 @@
+sanic==0.8.3
+ujson
+aiohttp
+sanic-mongo
+uvloop
+python-json-logger
+aiodns
